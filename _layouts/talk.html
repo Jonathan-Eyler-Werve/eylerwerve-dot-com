@@ -11,12 +11,16 @@
   <!-- Set the viewport width to device width for mobile -->
   <meta name="viewport" content="width=device-width" />
 
-    
+    {% if page.description %}
+      <meta name="description" content="{{ page.description}}" />
+    {% endif %}
 
     <title>
-      
-        Full stack humanity - How technology copes (or doesn't) with complexity
-      
+      {% if page.title %}
+        {{ page.title }}
+      {% else %}
+        Eyler-Werve
+      {% endif %}
     </title>
 
   <!-- CSS Files -->
@@ -51,9 +55,9 @@
 
           <div id="wrapper" class="blog"><!-- Main page content -->
 
-            <h1 class="text--blog-headline">Full stack humanity - How technology copes (or doesn't) with complexity</h1>
-            <p class="blog--detail -first">Jonathan Eyler-Werve</p>
-            <p class="blog--detail -last">June 29, 2019</p>
+            <h1 class="text--blog-headline">{{ page.title }}</h1>
+            <p class="blog--detail -first">{{ page.author }}</p>
+            <p class="blog--detail -last">{{ page.date | date: '%B %d, %Y' }}</p>
 
             <div class="talk__embed">
               <video controls width="100%">
@@ -61,17 +65,17 @@
                 <source src="/media/examples/flower.webm"
                         type="video/webm">
 
-                <source src="http://f.cl.ly/items/1P2D3U1o0c0I0Y2C420W/Full+stack+humanity_+How+technology+copes+%28or+doesn%27t%29+with+complexity+-+Jonathan+Eyler-Werve+-+June+26%2C+2019.mp4"
+                <source src="{{ page.embed-mp4 }}"
                         type="video/mp4">
 
-                Sorry, your browser doesn't support embedded videos. Try this direct link instead: <a href="http://f.cl.ly/items/1P2D3U1o0c0I0Y2C420W/Full+stack+humanity_+How+technology+copes+%28or+doesn%27t%29+with+complexity+-+Jonathan+Eyler-Werve+-+June+26%2C+2019.mp4">Direct link</a>
+                Sorry, your browser doesn't support embedded videos. Try this direct link instead: <a href="{{page.embed-mp4}}">Direct link</a>
               </video>
 
 
 
             </div>
 
-            <p>When we talk about 'full stack' in software, we talk about the invisible systems that determine our experience. What happens when we apply that lens to social science concepts like gender identity? How might this inform (and improve!) the software we build?</p>
+            <p>{{ page.blurb }}</p>
 
           </div><!-- /wrapper -->
 

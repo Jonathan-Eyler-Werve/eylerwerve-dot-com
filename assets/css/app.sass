@@ -49,6 +49,7 @@ $timing-s: 0.5s
 $timing-m: 1.0s
 
 $radius-standard: 0px
+$radius-card: 5px
 
 // PATHS
 
@@ -81,6 +82,9 @@ ul._minimal li
 h1, h2, h3, h4, h5, h6, .button, button
   font-family: $font-sans
 
+h3
+  line-height: 36px
+
 i
   color: $color-accent
 
@@ -103,6 +107,21 @@ a:hover.button
 
 blockquote, blockquote p
   color: $color-secondary
+
+// COMPONENTS
+
+// card
+
+.card
+  border: 1px solid $color-gray-lightest
+  padding: $padding-standard
+  background-color: $color-white
+  border-radius: $radius-card
+
+a.card
+  color: $color-bodytext
+  text-decoration: none
+  cursor: pointer
 
 // LAYOUTS
 
@@ -158,8 +177,6 @@ blockquote, blockquote p
 
 .talk
   display: flex
-  border: 1px solid $color-gray
-  padding: $padding-standard
   flex-direction: row
 
 .talk__meta
@@ -168,11 +185,29 @@ blockquote, blockquote p
   padding: 0 $padding-standard
 
 .talk__leadimage
-  max-width: 300px
+  display: none
+  max-width: 500px
   max-height: 300px
+
+@media #{$large-up}
+  .talk__leadimage
+    display: block
 
 .talk__title
   display: inline-block
+  margin-bottom: 20px
+
+.talk__embed
+  min-height: 200px
+  width: 100%
+
+.talk-list
+  margin-top: $padding-big
+
+.talk-list ul
+  margin-top: $padding-big
+
+
 
 // .home
 

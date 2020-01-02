@@ -1,0 +1,10 @@
+<a class="card talk" href="{{ talk.url }}">
+  <div class="image _border">
+    <img src="{{ talk.lead_image }}" class="talk__leadimage">
+  </div>
+  <div class="talk__meta">
+    <p class="talks__date">{{ talk.date | date: '%B %d, %Y' }}
+    <h3 class="talk__title">{{ talk.title }}</h2>
+    <p class="talk__description">{{talk.blurb}}</p>
+  </div>
+</a>
