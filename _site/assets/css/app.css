@@ -8,8 +8,15 @@ body {
 ul {
   padding-left: 15px; }
 
+ul._minimal {
+  padding-left: 0px;
+  margin-left: 0px; }
+
 li {
   list-style-type: circle; }
+
+ul._minimal li {
+  list-style-type: none; }
 
 h1, h2, h3, h4, h5, h6, .button, button {
   font-family: "Cabin", Helvetica, Ariel, sans-serif; }
@@ -74,6 +81,24 @@ blockquote, blockquote p {
   .blog img.size-large {
     margin-top: 30px;
     margin-bottom: 30px; } }
+.talk {
+  display: flex;
+  border: 1px solid #525A5C;
+  padding: 30px;
+  flex-direction: row; }
+
+.talk__meta {
+  display: flex;
+  flex-direction: column;
+  padding: 0 30px; }
+
+.talk__leadimage {
+  max-width: 300px;
+  max-height: 300px; }
+
+.talk__title {
+  display: inline-block; }
+
 .home h1 {
   color: white;
   font-family: "Overpass Mono", monospace; }
@@ -146,7 +171,7 @@ blockquote, blockquote p {
 
 @media only screen and (max-width: 640px) {
   .home--background__1 {
-    padding: 60px 20px; } }
+    padding: 50px 30px; } }
 @media only screen and (min-width: 1024px) {
   .home--background__1 {
     height: 50%; } }
