@@ -14,6 +14,7 @@ categories:
   - Jonathan
 tags:
   - Information Security for Activists
+published: full
 ---
 <p style="text-align: center;"><img class="aligncenter size-large wp-image-1185" alt="cern" src="http://www.eylerwerve.com/wp-content/uploads/2013/04/cern-590x392.jpg" srcset="http://www.eylerwerve.com/wp-content/uploads/2013/04/cern-300x199.jpg 300w, http://www.eylerwerve.com/wp-content/uploads/2013/04/cern-590x392.jpg 590w, http://www.eylerwerve.com/wp-content/uploads/2013/04/cern-226x150.jpg 226w, http://www.eylerwerve.com/wp-content/uploads/2013/04/cern.jpg 1024w" /></p>
 

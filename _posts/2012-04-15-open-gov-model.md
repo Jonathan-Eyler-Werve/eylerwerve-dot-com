@@ -14,6 +14,7 @@ categories:
   - Kate
 tags:
   - open gov
+published: full
 ---
 <img src="http://www.eylerwerve.com/wp-content/uploads/2012/04/Mayors-meeting-590x392.jpg" alt="" title="Mayors-meeting" class="size-large wp-image-1050" srcset="http://www.eylerwerve.com/wp-content/uploads/2012/04/Mayors-meeting-300x199.jpg 300w, http://www.eylerwerve.com/wp-content/uploads/2012/04/Mayors-meeting-590x392.jpg 590w, http://www.eylerwerve.com/wp-content/uploads/2012/04/Mayors-meeting-226x150.jpg 226w, http://www.eylerwerve.com/wp-content/uploads/2012/04/Mayors-meeting.jpg 1024w" />
 

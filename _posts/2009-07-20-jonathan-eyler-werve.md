@@ -14,6 +14,7 @@ wpsd_autopost:
   - 1
 categories:
   - Jonathan
+published: quiet
 ---
 Want to reach Jonathan? Leave a comment below and he&#8217;ll reply by email.
 

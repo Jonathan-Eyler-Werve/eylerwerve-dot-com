@@ -12,6 +12,8 @@ wpsd_autopost:
 categories:
   - Frontpage
   - Jonathan
+
+published: full
 ---
 [<img class="alignright size-medium wp-image-517" title="etsy" src="http://www.eylerwerve.com/wp-content/uploads/2011/03/etsy-300x237.jpg" alt="" width="300" height="237" />](http://www.eylerwerve.com/wp-content/uploads/2011/03/etsy.jpg)
 

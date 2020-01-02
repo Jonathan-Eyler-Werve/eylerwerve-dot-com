@@ -13,6 +13,7 @@ categories:
   - Jonathan
 tags:
   - Information Security for Activists
+published: full
 ---
 <div id="attachment_812" style="width: 599px" class="wp-caption aligncenter">
   <a href="http://www.eylerwerve.com/wp-content/uploads/2012/01/bagcontents-e1326810724661.jpg"><img class="size-full wp-image-812 " title="bagcontents" src="http://www.eylerwerve.com/wp-content/uploads/2012/01/bagcontents-e1326810724661.jpg" alt="" width="589" height="422" /></a>

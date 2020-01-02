@@ -14,6 +14,7 @@ secondary_image:
 categories:
   - Frontpage
   - Jonathan
+published: quiet
 ---
 One of my favorite events in Chicago: an entire conference devoted to training nonprofiteers on the subtle arts of communications. And the speakers are pretty great folks. Photos below are mine.
 

@@ -12,6 +12,7 @@ secondary_image:
   - http://www.eylerwerve.com/wp-content/uploads/2010/02/IMG_1509.JPG
 categories:
   - Vivian
+
 ---
 Hi folks!
 
@@ -19,10 +20,10 @@ Thank you all for the many kind emails, SMS messages and calls. We all feel very
 
 Baby and mother are doing well, and we had our first outing (to the doctor) in a driving snowstorm. That&#8217;s granddaddy&#8217;s car, if you&#8217;re wondering. We&#8217;ll be fitting Vivian for her first bike any day now.
 
-Kate&#8217;s parents made it in before the snow hit, and Grandaddy Ed is making us _[choucroute garnie](http://en.wikipedia.org/wiki/Choucroute_garnie)_, which is French for mmmmmmmmmmm. Main ingredients: sausage, sauerkraut, butter, gin. 
+Kate&#8217;s parents made it in before the snow hit, and Grandaddy Ed is making us _[choucroute garnie](http://en.wikipedia.org/wiki/Choucroute_garnie)_, which is French for mmmmmmmmmmm. Main ingredients: sausage, sauerkraut, butter, gin.
 
 Much love,
-  
+
 Jonathan
 
 Full gallery is on Flickr: [Hi folks!
@@ -31,10 +32,10 @@ Thank you all for the many kind emails, SMS messages and calls. We all feel very
 
 Baby and mother are doing well, and we had our first outing (to the doctor) in a driving snowstorm. That&#8217;s granddaddy&#8217;s car, if you&#8217;re wondering. We&#8217;ll be fitting Vivian for her first bike any day now.
 
-Kate&#8217;s parents made it in before the snow hit, and Grandaddy Ed is making us _[choucroute garnie](http://en.wikipedia.org/wiki/Choucroute_garnie)_, which is French for mmmmmmmmmmm. Main ingredients: sausage, sauerkraut, butter, gin. 
+Kate&#8217;s parents made it in before the snow hit, and Grandaddy Ed is making us _[choucroute garnie](http://en.wikipedia.org/wiki/Choucroute_garnie)_, which is French for mmmmmmmmmmm. Main ingredients: sausage, sauerkraut, butter, gin.
 
 Much love,
-  
+
 Jonathan
 
 Full gallery is on Flickr:](http://www.flickr.com/photos/46866170@N07/sets/72157623266724773/)

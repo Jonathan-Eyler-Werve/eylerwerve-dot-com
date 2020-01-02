@@ -12,6 +12,7 @@ wpsd_autopost:
 categories:
   - Frontpage
   - Jonathan
+published: full
 ---
 <p class="aligncenter"><img class="aligncenter" title="Pharos of Alexandria" src="https://upload.wikimedia.org/wikipedia/commons/3/39/%D0%90%D0%BB%D0%B5%D0%BA%D1%81%D0%B0%D0%BD%D0%B4%D1%80%D0%B8%D0%B9%D1%81%D0%BA%D0%B8%D0%B9_%D0%BC%D0%B0%D1%8F%D0%BA.jpg" alt="" width="590" /></p>
 

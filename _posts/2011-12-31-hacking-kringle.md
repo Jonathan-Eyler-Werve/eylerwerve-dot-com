@@ -11,6 +11,7 @@ wpsd_autopost:
   - 1
 categories:
   - Jonathan
+published: full
 ---
 <p style="text-align: center;">
   <img class="wp-image-693 aligncenter" title="blog-kingle-2" src="http://www.eylerwerve.com/wp-content/uploads/2011/12/blog-kingle-21-1024x612.jpg" alt=""  srcset="http://www.eylerwerve.com/wp-content/uploads/2011/12/blog-kingle-21-300x179.jpg 300w, http://www.eylerwerve.com/wp-content/uploads/2011/12/blog-kingle-21-1024x612.jpg 1024w, http://www.eylerwerve.com/wp-content/uploads/2011/12/blog-kingle-21-226x135.jpg 226w, http://www.eylerwerve.com/wp-content/uploads/2011/12/blog-kingle-21.jpg 1280w" />

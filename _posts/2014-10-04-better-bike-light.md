@@ -12,5 +12,6 @@ wpsd_autopost:
 categories:
   - Frontpage
   - Jonathan
+published: full
 ---
 [<img class="aligncenter size-large wp-image-1322" src="http://www.eylerwerve.com/wp-content/uploads/2014/10/15416326426_15c83c892b_o-442x590.jpg" alt="15416326426_15c83c892b_o" width="442" height="590" srcset="http://www.eylerwerve.com/wp-content/uploads/2014/10/15416326426_15c83c892b_o-225x300.jpg 225w, http://www.eylerwerve.com/wp-content/uploads/2014/10/15416326426_15c83c892b_o-442x590.jpg 442w" sizes="(max-width: 442px) 100vw, 442px" />](http://www.eylerwerve.com/wp-content/uploads/2014/10/15416326426_15c83c892b_o.jpg)

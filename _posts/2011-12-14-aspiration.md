@@ -11,6 +11,7 @@ wpsd_autopost:
   - 1
 categories:
   - Jonathan
+published: full
 ---
 _This is written by Allen Gunn and co. at Aspiration, an organization that helps nonprofits make better technology decisions. I love this thing. I send so many people to this page, that I wanted to post it somewhere with slightly bigger type. I&#8217;ve linked the original and definitive version of the [Aspiration Manifesto](http://www.aspirationtech.org/publications/manifesto "Aspiration Manifesto"). &#8211; Jonathan_
 

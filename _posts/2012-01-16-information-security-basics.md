@@ -13,6 +13,7 @@ categories:
   - Jonathan
 tags:
   - Information Security for Activists
+published: full
 ---
 <div id="attachment_791" class="wp-caption aligncenter">
   <a href="http://www.eylerwerve.com/wp-content/uploads/2012/01/onebushstreet.jpg"><img class="size-full wp-image-791" title="onebushstreet" src="http://www.eylerwerve.com/wp-content/uploads/2012/01/onebushstreet-e1326748840665.jpg" alt="" /></a>

@@ -14,12 +14,17 @@ redirect_from:
   - /2011/
   - /2010/
 ---
-
+<h2>Posts by Jonathan Eyler-Werve</h2>
+<p class="minimal-nav"><a href="/">Back to home</a></p>
 
 <ul>
   {% for post in site.posts %}
-    <li>
-      <a href="{{ post.url }}">{{ post.title }}</a>
-    </li>
+    {% if post.published == "full" %}
+      <li>
+
+        <a href="{{ post.url }}">{{ post.title }}</a>
+
+      </li>
+    {% endif %}
   {% endfor %}
 </ul>

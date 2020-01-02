@@ -10,6 +10,7 @@ wpsd_autopost:
   - 1
 categories:
   - Uncategorized
+published: quiet
 ---
 In 2008 a writer, Kevin Kelly, published a [hypothesis](http://www.kk.org/thetechnium/archives/2008/03/1000_true_fans.php): that creators don’t need to be widely known to be successful. Instead, they need a core group of 1000 true fans, willing to provide regular, significant support. 1000 fans x $100 = $100,000 a year, before expenses. The idea is wildly popular &#8211; in theory. In practice, very few people have made this work by selling downloads and t-shirts.
 

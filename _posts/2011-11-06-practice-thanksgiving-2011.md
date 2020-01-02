@@ -26,7 +26,7 @@ We&#8217;ll do a fresh local bird, lovingly brined and stuffed full of sage and 
 Your friends and kids are welcome to join us.
 
 **Schedule:** Next Sunday, 11/13/11! Gather at _4pm or later_ to cook and hang with kids. _Dinner served at 6pm._**
-  
+
 ** **RSVP:** leave a comment on this post. Please note any food restrictions, or send an email if you prefer.
 
 With thanks for many good things,
@@ -40,49 +40,49 @@ HEADCOUNT: ~ 17 talls, 3 toddlers.
 Bringing food is optional but encouraged. **Volunteer to bring something specific** **by leaving a comment** below this post, and I&#8217;ll update the list &#8212; we do it this way so you can see what&#8217;s claimed and we don&#8217;t get 12 yam recipes. Some **recommendations are in italics**, but feel free to improvize. If you can make something vegetarian, please do so.
 
 **Main course!**
-  
+
 Sage-brined turkey with garlic and parsley, with gravy. By Jonathan E-W.
-  
+
 _A vegetarian main_
 
 **Sides! **
-  
+
 Mashed Potatoes, by Kyle_
-  
+
 _ Sweet potato casserole, by Esta
 
 Bread, by Ariel. _
-  
+
 A bread or bread-like product. _
 
 Green beans with friend onions, by Kelty & Duane_
-  
+
 _ Napa Cabbage salad by Heidi
 
 _A meaty stuffing.
-  
+
 _ A vegetarian stuffing, by Heidi
 
 Cranberries.
 
 **Deserts! **
-  
+
 Apple pie, by Kate E-W.
-  
+
 Pumpkin Bacon Pie, by Ariel.
-  
+
 _Moar pie! more! more!
-  
+
 _ Possible berry cobbler, by Esta
 
 **Drinks!
-  
+
 ** _Seasonal beverages of an alcoholic nature.
-  
+
 _ Spiced cider by Kunal._
-  
+
 _ _Wine._**
-  
+
 ** Fancy ginger ale, by Jonathan E-W
-  
+
 Pabst Blue Ribbon, by Jonathan E-W

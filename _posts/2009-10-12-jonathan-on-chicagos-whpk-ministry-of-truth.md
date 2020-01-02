@@ -19,6 +19,8 @@ enclosure:
 
 categories:
   - Jonathan
+
+published: full
 ---
 
 <img src="http://www.eylerwerve.com/wp-content/uploads/2009/10/chicagopier.jpg"/>
