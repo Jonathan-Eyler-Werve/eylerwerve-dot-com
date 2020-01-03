@@ -181,28 +181,26 @@ a.card
 // Talks
 
 .talk
-  display: flex
-  flex-direction: row
 
-.talk__meta
+.talk--meta
   display: flex
   flex-direction: column
   padding: 0 $padding-standard
 
-.talk__leadimage
+.talk--leadimage
   display: none
-  max-width: 500px
+  max-width: 100%
   max-height: 300px
 
 @media #{$large-up}
-  .talk__leadimage
+  .talk--leadimage
     display: block
 
-.talk__title
+.talk--title
   display: inline-block
   margin-bottom: 20px
 
-.talk__embed
+.talk--embed
   min-height: 200px
   width: 100%
 
@@ -212,9 +210,6 @@ a.card
 
 
 // .home
-
-.home .card
-  color: $color-white
 
 .home h1
   color: rgba($color-white, 1.00)
@@ -283,8 +278,8 @@ a.card
   width: 100%
   top: 0
   left: 0
-  background-color: rgba($color-black,.80)
-  padding: 80px
+  background-color: rgba($color-black,.85)
+  padding: $padding-big
 
 @media #{$small-only}
   .home--background__1
@@ -292,14 +287,12 @@ a.card
 
 @media #{$large-up}
   .home--background__1
-    height: 50%
+    height: 310px
 
 .home--background__2
   display: none
-  position: fixed
-  height: 50%
+  height: 100%
   width: 100%
-  top: 50%
   left: 0
   background-color: rgba($color-black,.95)
   padding: $padding-big
@@ -307,17 +300,6 @@ a.card
 @media #{$large-up}
   .home--background__2
     display: block
-
-.homewrapper
-  display: flex
-  position: fixed
-  width: 100%
-  height: 100%
-  top: 0
-  left: 0
-  flex-direction: column
-  align-items: center
-  justify-content: space-around
 
 .homeprimary--main
   padding-bottom: 50px
@@ -335,9 +317,22 @@ a.card
     -o-background-size: cover
     background-size: cover
 
-.home .card
-  background: none
-  border: none
+.homeprimary
+  padding-bottom: $padding-big
+
+.homesecondary
+  padding-top: $padding-big
+
+.home a
+  color: $color-white
+  font-family: $font-sans
+
+.home a:hover
+  text-decoration: none
+
+.home .talk--title
+  color: $color-terminalgreen
+  opacity: 0.70
 
 
 // .header
