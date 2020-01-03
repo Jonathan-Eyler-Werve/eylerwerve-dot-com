@@ -6,6 +6,9 @@ author: Jonathan Eyler-Werve
 layout: talk
 guid:
 permalink:
+
+homepage: true
+
 lead_image:
   - /assets/images/content--talk-fullstack-humanity.png
 

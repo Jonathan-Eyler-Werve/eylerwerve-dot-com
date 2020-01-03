@@ -108,6 +108,10 @@ a:hover.button
 blockquote, blockquote p
   color: $color-secondary
 
+.card .caption
+  font-family: $font-sans
+  font-size: 14px
+
 // COMPONENTS
 
 // card
@@ -117,6 +121,7 @@ blockquote, blockquote p
   padding: $padding-standard
   background-color: $color-white
   border-radius: $radius-card
+  margin-bottom: $padding-standard
 
 a.card
   color: $color-bodytext
@@ -207,6 +212,9 @@ a.card
 
 
 // .home
+
+.home .card
+  color: $color-white
 
 .home h1
   color: rgba($color-white, 1.00)
@@ -300,6 +308,17 @@ a.card
   .home--background__2
     display: block
 
+.homewrapper
+  display: flex
+  position: fixed
+  width: 100%
+  height: 100%
+  top: 0
+  left: 0
+  flex-direction: column
+  align-items: center
+  justify-content: space-around
+
 .homeprimary--main
   padding-bottom: 50px
 
@@ -315,6 +334,11 @@ a.card
     -moz-background-size: cover
     -o-background-size: cover
     background-size: cover
+
+.home .card
+  background: none
+  border: none
+
 
 // .header
 
