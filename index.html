@@ -38,20 +38,16 @@ redirect_from: /foo/
         {% if talk.homepage == true %}
 
         <div class="large-6 columns">
-          <div class="homeprimary--main">
             <a class="talk" href="{{ talk.url }}">
               <img src="{{ talk.lead_image }}" class="talk--leadimage">
             </a>
-          </div>
         </div>
         <div class="large-6 columns">
-          <div class="homeprimary--sidebar">
             <a href="{{ talk.url }}" class="talk--meta">
               <p class="talk--date caption">NEW TALK // {{ talk.date | date: '%B %d, %Y' }}
               <h4 class="talk--title">{{ talk.title }}</h4>
               <p class="talk--description caption">{{talk.blurb}}</p>
             </a>
-          </div>
         </div>
 
         {% endif %}
