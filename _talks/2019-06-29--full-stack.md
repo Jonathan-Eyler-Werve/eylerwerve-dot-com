@@ -17,7 +17,7 @@ categories:
   - talks
 
 blurb:
-  - When we talk about 'full stack' in software, we talk about the invisible systems that determine our experience. What happens when we apply that lens to social science concepts like gender identity? How might this inform (and improve!) the software we build?
+  - When we talk about 'full stack' in software, we talk about the invisible systems that determine our experience. What happens when we apply that lens to human concepts like identity? The social sciences are useful tools for understanding these 'backend' systems. How might social science inform (and improve!) the software we build?
 
 embed-mp4: http://f.cl.ly/items/1P2D3U1o0c0I0Y2C420W/Full+stack+humanity_+How+technology+copes+%28or+doesn%27t%29+with+complexity+-+Jonathan+Eyler-Werve+-+June+26%2C+2019.mp4
 

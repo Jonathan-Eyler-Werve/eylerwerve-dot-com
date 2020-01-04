@@ -47,9 +47,8 @@ a:hover.button {
 blockquote, blockquote p {
   color: #525A5C; }
 
-.card .caption {
-  font-family: "Cabin", Helvetica, Ariel, sans-serif;
-  font-size: 14px; }
+span._gray {
+  opacity: 0.65; }
 
 .card {
   border: 1px solid #eff1f1;
@@ -103,7 +102,7 @@ blockquote, blockquote p {
 .talk--meta {
   display: flex;
   flex-direction: column;
-  padding: 0 30px; }
+  padding: 0; }
 
 .talk--leadimage {
   display: none;

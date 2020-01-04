@@ -44,7 +44,8 @@ redirect_from: /foo/
         </div>
         <div class="large-6 columns">
             <a href="{{ talk.url }}" class="talk--meta">
-              <p class="talk--date caption">NEW TALK // {{ talk.date | date: '%B %d, %Y' }}
+              <p class="talk--date caption">
+                <span class="_gray">SOME NEW STUFF</span> </p>
               <h4 class="talk--title">{{ talk.title }}</h4>
               <p class="talk--description caption">{{talk.blurb}}</p>
             </a>
