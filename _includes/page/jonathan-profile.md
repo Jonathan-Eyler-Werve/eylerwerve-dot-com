@@ -1,6 +1,6 @@
-Hello! I'm a digital product designer with 20 years experience making Web and native software. I've also worked in product management, people leadership and as a full stack developer. I am interested in building the right things (user centered design), building them well (agile & XP), and managing risk thoughtfully (lean product).
+Hello! I'm a technologist with 20 years experience creating products for people on the Internet. I've worked in product, design, people leadership and as a full stack developer. I am interested in building the right things (user centered design), building them well (agile & XP), and managing risk thoughtfully (lean product).
 
-Currently, Staff Product Designer at Pivotal Labs, consulting to places like Boeing, Discover and Optum Health.
+Currentl leading consulting teams at VMware Tanzu Labs.
 
 Previously I was a director of product design at Sprout Social, director of UX at Polymathic, and director of product at Dev Bootcamp. Some early phase startups: Moxie Jean, Civic Workbench, Sparks Custom Publishing. I worked in civic tech, at Global Integrity, The Engine Room and the Center for Public Integrity.
 
